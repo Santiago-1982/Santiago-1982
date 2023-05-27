@@ -6,7 +6,7 @@
 
 ![aprendiendo ser desarrollador IT JavaScript](github-header-image.png)
 
-Hola acutalmente estoy aprendiendo JavaScript  para en un futuro ser un desarrollador Full Satck.
+Hola acutalmente estoy aprendiendo JavaScript en RollingCode School  para en el futuro ser un desarrollador Full Satck.
 
 Habilidades: VUE JS / REACT / JS / HTML / CSS
 
