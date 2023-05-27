@@ -1,6 +1,9 @@
 ### Hola 👋, soy Santiago
 
 #### aprendiendo ser desarrollador IT JavaScript
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![aprendiendo ser desarrollador IT JavaScript](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hola acutalmente estoy aprendiendo JavaScript  para en un futuro ser un desarrollador Full Satck.
